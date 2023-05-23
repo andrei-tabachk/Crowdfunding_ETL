@@ -1,6 +1,12 @@
 # Crowdfunding_ETL
 This repo contains the files to Project 2 by Team 3
-1. Category and Subcategory DataFrames (by Evis Saliaj): ETL_E_SALIAJ.ipynb
-2. Campaign DataFrame (by Andrei Tabatchouk): AndreiT_Campaigns_DF.ipynb
-3. Contacts DataFrame (by Colven Benjamin): ETL_Mini_Project_Contacts.ipynb
-4. Crowdfunding Database (by Zhibang Wu): crowdfunding.png, crowdfunding_db_schema.sql
+
+For the consolidated notebook, please go to ETL_Mini_Project_ESaliaj_ATabatchouk_CBenjamin_ZWu.ipynb
+
+For ERD and SQL schema, please refer to crowdfunding.png and crowdfunding_db_schema.sql
+
+Work division:
+1. Category and Subcategory DataFrames: Evis Saliaj
+2. Campaign DataFrame: Andrei Tabatchouk
+3. Contacts DataFrame: Colven Benjamin
+4. Crowdfunding Database: Zhibang Wu
